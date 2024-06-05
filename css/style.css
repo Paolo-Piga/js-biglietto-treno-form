@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-white{
+    width: 1000px;
+    height: 1000px;
+
+}
+
+.container-rosa{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
